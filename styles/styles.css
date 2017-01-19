@@ -1,5 +1,49 @@
 /*CSS STYLE SHEET*/
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
 h1, h2 {
     text-align: center;
+}
+
+#About{
+    margin: 45px 0 -10px 0;
+    color: #d65148;
+    padding: 5px 0;
+}
+
+#Hobbies{
+    margin: 45px 0 -10px 0;
+    color: #6067c0;
+    padding: 15px 0 -10px 0;
+}
+
+main {
+    margin: 0 200px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.hackerman {
+    height: 650px;
+    width: 850px;
+}
+
+.dogs{
+    height: 700px;
+    width: 500px;
+    padding: 5px 0 20px 0;
+}
+
+footer{
+    margin: 5px;
+    padding: 3px 0 3px 0;
+    text-align: center;
+    background-color: #bcbbbb;
 
 }
