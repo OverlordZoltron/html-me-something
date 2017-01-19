@@ -1,5 +1,43 @@
 /*CSS STYLE SHEET*/
+body{
+    margin: 0;
+}
+
 h1, h2 {
     text-align: center;
+}
+
+#About{
+    color: #d65148;
+    padding: 10px 0px;
+}
+
+#Hobbies{
+    color: #6067c0;
+    padding: 10px 0px;
+}
+
+main {
+    margin: 0 200px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.hackerman {
+    height: 650px;
+    width: 850px;
+}
+
+.dogs{
+    height: 700px;
+    width: 500px;
+}
+
+footer{
+    text-align: center;
+    background-color: #bcbbbb;
 
 }
